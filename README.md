@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
    ##
  
 - 📫 Meus contatos são. Tel. (85) 9 8672-9790, (85) 9 9669-4509 
-- 📫 E-mail - candidochan@gmail.com - Instagran @candidochan.
+- 📫 E-mail - candidochan@gmail.com
   <!---
 candidochan/candidochan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
