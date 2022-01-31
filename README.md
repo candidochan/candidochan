@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidochan&&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
-    
+ 
+ ##
+ 
  </div>
   <div align="center">
   <img align="left" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
