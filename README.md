@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
 <div style="display: inline_block"><br>
     
  </div>
-  <div style="display: inline_block"><br>
+  <div align="center">
+  <img align="left" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bruno-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -29,6 +30,7 @@ You can click the Preview link to take a look at your changes.
   ##
  
 <div> 
+ <div align="center">
   <a href ="https://www.youtube.com/channel/UCNm7OguGv5Y8BoSGS4poDgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href ="https://instagram.com/candidochan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href ="mailto:candidochan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -41,7 +43,12 @@ You can click the Preview link to take a look at your changes.
  
 - 📫 Meus contatos são. Tel. (85) 9 8672-9790, (85) 9 9669-4509 
 - 📫 E-mail - candidochan@gmail.com
-  <!---
+ 
+
+  
+  <img align="center" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gifhttps://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gif">
+   
+   <!---
 candidochan/candidochan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
