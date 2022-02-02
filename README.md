@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Bruno-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">  
   <img align="center" alt="Bruno-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">  
   <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEztjn53lk4Bw/company-logo_200_200/0/1641752210777?e=1651104000&v=beta&t=KQ1rz_LyZuS5g8cf8FJw2dU95Lb5TXeuI4dmrgeABdA">
-</div>
   
 </div>
   
@@ -53,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   ##
   ###                                                         Você é o visitante número:
   
-  <div align=center><a href='https://github.com/candidochan'><img src='https://contador.s12.com.br/img-37Z9682z35Wz60Y5-56.gif' border='0' alt='contador'></a></div>
+  <div align=center><a href='https://github.com/candidochan'><img src='https://contador.s12.com.br/img-Dw3DZy9wxYAw85Yx-56.gif' border='0' alt='contador de visitas gratis'></a><br></div>
   
   ##
    <!---
