@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
   ##
   ###                                                         Você é o visitante número:
   
-  <div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-37Z9682z35Wz60Y5-56.gif' border='0' alt='contador'></a></div>
+  <div align=center><a href='https://github.com/candidochan'><img src='https://contador.s12.com.br/img-37Z9682z35Wz60Y5-56.gif' border='0' alt='contador'></a></div>
   
   ##
    <!---
