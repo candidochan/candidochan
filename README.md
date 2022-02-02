@@ -49,7 +49,13 @@ You can click the Preview link to take a look at your changes.
 
   
   <img align="center" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gifhttps://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gif">
-   
+  
+  ##
+  ###                                                         Você é o visitante número:
+  
+  <div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-37Z9682z35Wz60Y5-56.gif' border='0' alt='contador'></a></div>
+  
+  ##
    <!---
 candidochan/candidochan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
