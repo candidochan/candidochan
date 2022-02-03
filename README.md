@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   ##
   ###                                                         Você é o visitante número:
   
-  <div align=center><a href='https://github.com/candidochan'><img src='https://contador.s12.com.br/img-Dw3DZy9wxYAw85Yx-56.gif' border='0' alt='contador de visitas gratis'></a><br></div>
+ <a href="https://instagram.com/candidochan" title="contador de visitas para blog"><img src="https://counter2.stat.ovh/private/webcontadores.php?c=c5qjwbq621r4yxlu23rarqgfgw42prbm" border="0" title="contador de visitas para blog" alt="contador de visitas para blog"></a>
   
   ##
    <!---
