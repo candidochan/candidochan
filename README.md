@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gifhttps://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gif">
   
   ##
-  ###                                                         Você é o visitante número:
+  ###                                                   Você é o visitante número:
   
  <a href="https://instagram.com/candidochan" title="contador de visitas para blog"><img src="https://counter2.stat.ovh/private/webcontadores.php?c=c5qjwbq621r4yxlu23rarqgfgw42prbm" border="0" title="contador de visitas para blog" alt="contador de visitas para blog"></a>
   
