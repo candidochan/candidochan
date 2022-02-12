@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <div> 
  <div align="center">
   <a href ="https://www.youtube.com/channel/UCNm7OguGv5Y8BoSGS4poDgQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href ="https://instagram.com/candidochan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="https://instagram.com/candidochan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" title="Se gostou me siga no Instagram"></a>
  	<a href ="mailto:candidochan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href ="https://www.linkedin.com/in/brunocandidoqa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
