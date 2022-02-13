@@ -53,11 +53,9 @@ https://candidochan.github.io/portfolio/
   <img align="center" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gifhttps://c.tenor.com/xuQFAKdyBDkAAAAC/game-gamer.gif">
   
   ##
-  ###                                                   Você é o visitante número:
+  ###                                          Você é o visitante número:
   
- <a href="https://instagram.com/candidochan" title="Se gostou me siga no Instagram"><img src="https://counter2.stat.ovh/private/webcontadores.php?c=c5qjwbq621r4yxlu23rarqgfgw42prbm" border="0" title="Se gostou me siga no Instagram" alt="Se gostou me siga no Instagram"></a>
-
-<a href="http://www.contadordevisitas.net.br/detalhes/Xh" target="_blank"><img src="https://www.contadordevisitas.net.br/Xh/" alt="Contador de Visita" title="Contador de Visita"></a><br>
+ <a href="http://www.contadordevisitas.net.br/detalhes/Xh" target="_blank"><img src="https://www.contadordevisitas.net.br/Xh/" alt="Contador de Visita" title="Contador de Visita"></a><br>
   
   ##
    <!---
