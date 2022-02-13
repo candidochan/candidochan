@@ -55,7 +55,7 @@ https://candidochan.github.io/portfolio/
   ##
   ###                                          Você é o visitante número:
   
- <a href="http://www.contadordevisitas.net.br/detalhes/Xh" target="_blank"><img src="https://www.contadordevisitas.net.br/Xh/" alt="Contador de Visita" title="Contador de Visita"></a><br>
+ <a align="center" href="http://www.contadordevisitas.net.br/detalhes/Xh" target="_blank"><img src="https://www.contadordevisitas.net.br/Xh/" alt="Contador de Visita" title="Contador de Visita"></a><br>
   
   ##
    <!---
