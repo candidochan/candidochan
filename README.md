@@ -5,6 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Olá eu sou o Bruno Cândido e trabalho atualmente como Quality Assurance na Sinqia!
 
+Currículo
+https://candidochan.github.io/portfolio/
+
  ##
 <div align="center">
   <a href="https://github.com/candidochan">
