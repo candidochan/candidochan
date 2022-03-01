@@ -3,7 +3,7 @@
 candidochan/candidochan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Olá eu sou o Bruno Cândido e trabalho atualmente como Quality Assurance na Sinqia!
+## Olá eu sou o Bruno Cândido e trabalho atualmente como Analiista de Automação Pleno!
 
 Currículo
 https://candidochan.github.io/portfolio/
