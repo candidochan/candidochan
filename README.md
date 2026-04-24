@@ -26,8 +26,8 @@ https://candidochan.github.io/portfolio/
   <img align="center" alt="Bruno-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bruno-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Bruno-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">  
-  <img align="center" alt="Bruno-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">  
-  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEztjn53lk4Bw/company-logo_200_200/0/1641752210777?e=1651104000&v=beta&t=KQ1rz_LyZuS5g8cf8FJw2dU95Lb5TXeuI4dmrgeABdA">
+  <img align="center" alt="Bruno-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">   
+  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEztjn53lk4Bw/company-logo_200_200/0/1641752210777? e=1651104000&v=beta&t=KQ1rz_LyZuS5g8cf8FJw2dU95Lb5TXeuI4dmrgeABdA">
   
 </div>
   
@@ -45,7 +45,7 @@ https://candidochan.github.io/portfolio/
 
    ##
  
-- 📫 Meus contatos são. Tel. (85) 9 8672-9790, (85) 9 9669-4509 
+- 📫 Meus contatos são. Tel. +351 910 585 178 e (85) 9 8672-9790 
 - 📫 E-mail - candidochan@gmail.com
  
 
@@ -62,3 +62,4 @@ https://candidochan.github.io/portfolio/
 candidochan/candidochan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
